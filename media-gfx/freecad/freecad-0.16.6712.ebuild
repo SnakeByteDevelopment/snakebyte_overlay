@@ -53,7 +53,6 @@ DEPEND="${COMMON_DEPEND}
 
 PATCHES=(
 	"${FILESDIR}"/${PN}-0.14.3702-install-paths.patch
-	"${FILESDIR}"/${P}-no-webkit.patch
 )
 
 # https://bugs.gentoo.org/show_bug.cgi?id=352435

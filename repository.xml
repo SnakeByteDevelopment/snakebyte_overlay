@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>snakebyte-overlay</name>
+    <description lang="en">gentoo overlay containing mainly IDEA products and other development tools</description>
+    <homepage>https://github.com/snakebytedevelopment/snakebyte-overlay</homepage>
+    <owner type="person">
+		<email>gert@pellin.be</email>
+		<name>Gert Pellin</name>
+    </owner>
+    <source type="git">git://github.com/snakebytedevelopment/snakebyte-overlay.git</source>
+    <feed>https://github.com/snakebytedevelopment/snakebyte-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
